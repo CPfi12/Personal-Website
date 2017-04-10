@@ -1,0 +1,8 @@
+body{
+	background-image: url(/Users/clairejpfister/Desktop/watercolor.jpeg);
+	background-size: cover;
+}
+.nicefont{
+	font-family: 'Source Sans Pro', sans-serif;
+	color: rgb(17,55,112);
+}
